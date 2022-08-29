@@ -1,0 +1,73 @@
+h1 {
+     font-size: 60px;
+     font-weight: 500;
+     font-style: oblique;
+     text-align: center;
+     background-color: antiquewhite;
+     background-position: 30;
+}
+
+p { 
+     color:rgb(105, 80, 23)
+}
+/*The color is wonderful. 
+It gives off a wood-like feel.*/
+h2 {
+     color:rgb(61, 38, 16)
+}
+/*Good stuff.*/
+
+#what_makes_a_chair_a_chair {
+     color:red;
+     font-size: 20px;
+     text-align: left;
+}
+
+#the_most_common_chairs {
+     color:green;
+     font-size: 20px;
+     text-align: right;
+}
+
+.common_chairs, .chair_info {
+     color:green;
+     font-size: 20px;
+     font-weight: 200;
+
+}
+.cylinderchair {
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+     width: 50%;
+     box-shadow: none;
+   }
+.center-text {
+     text-align: center;
+}
+
+.bottoms {
+     text-align: center;
+     font-size: 15px;
+     font-style: italic;
+     background-color: antiquewhite;
+}
+.chairh2, .mosth2 {
+     text-align: center;
+}
+body {
+     background-image: url(../images/whitebg.jpg);
+     background-repeat: no-repeat;
+     background-size: auto;
+     background-size: auto;
+     background-attachment: initial;
+}
+
+img {
+     border-width: 10px;
+     border-style: outset;
+     border-color: rgba(0, 0, 0, 0.089);
+     border-radius: 5% 2%;
+     box-shadow: none;
+}
+
